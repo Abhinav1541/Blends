@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    /*------Color variables------*/
+    --black_900: #000000;
+    --gray_200: #f0f0f0;
+    --green_600: #20a464;
+    --green_600_8c: #20a4648c;
+    --white_a700: #ffffff;
+    --white_a700_66: #ffffff66;
+
+    /*------Border radius variables------*/
+    --radius-xs: 1px;
+    --radius-sm: 12px;
+    --radius-md: 64px;
+    --radius-lg: 406px;
+  }
+}
+
